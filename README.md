@@ -52,3 +52,5 @@ The goal of this project was to improve my understanding of:
 
 ![1st Hero section](./public/screenshots/image1.png)
 ![2nd Hero section](./public/screenshots/image2.png)
+
+![video](./public/video/spacex.mkv)
