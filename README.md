@@ -53,6 +53,6 @@ The goal of this project was to improve my understanding of:
 ![1st Hero section](./public/screenshots/image1.png)
 ![2nd Hero section](./public/screenshots/image2.png)
 
-<video src="public/video/spacex.mp4" width="100%" controls>
+<video src="./public/video/spacex.mp4" width="100%" controls>
 Your browser does not support the video tag.
 </video>
